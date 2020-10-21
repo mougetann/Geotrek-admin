@@ -7,7 +7,7 @@ CHANGELOG
 
 **Bug fixes**
 
--
+- Truncate attachment legend too long in AttachmentParserMixin
 
 
 2.38.6 (2020-10-20)
